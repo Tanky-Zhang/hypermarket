@@ -1,0 +1,4 @@
+cn\e3mall\search\mapper\Itemmapper.class
+cn\e3mall\search\service\impl\ItemAddLIstemer.class
+cn\e3mall\search\service\impl\SearchItemServiceImpl.class
+cn\e3mall\search\dao\SearchDao.class
